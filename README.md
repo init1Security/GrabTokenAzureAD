@@ -1,7 +1,10 @@
 # GrabTokenAzureAD
 A C# POC which automates the authorization flow created by the Connect-AzAccount modules from PowerShell
 
+## Summary
+For more details please visit https://www.init1security.com/post/hijacking-azure-powershell-authentication-flow
 
+## Code
 ```cs
 using System;
 using System.Collections.Generic;
